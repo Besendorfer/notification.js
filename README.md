@@ -2,12 +2,10 @@
 A browser notification library for simplification and error handling abstraction.
 
 ## Download & Installation
----
 Probably `npm`. Perhaps `bower` too? Currently, however, the only way is to get the 
 `notification.js` file somehow and include it in your project.
 
 ## Usage
----
 After installation, there will be a global object called `Notifier` that can be used. If the user
 has a browser that is compatible with sending notifications, the user will be asked if the webpage
 can send them notifications. If they agree, all is well!
